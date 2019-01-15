@@ -6,6 +6,7 @@ install:
 script:
   - set -e
   - jekyll build
+  - echo "${DOMAIN}" > _site/CNAME
 deploy:
   provider: pages
   skip-cleanup: true
