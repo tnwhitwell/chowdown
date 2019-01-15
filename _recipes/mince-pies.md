@@ -2,7 +2,9 @@
 
 layout: recipe
 title:  "Mince Pies"
-tags: baking, christmas
+tags:
+    - baking
+    - christmas
 
 ingredients:
     - For the pies:

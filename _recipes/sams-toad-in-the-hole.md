@@ -4,7 +4,10 @@ layout: recipe
 title:  "Sam's toad-in-the-hole"
 image: sams-toad-in-the-hole.jpg
 imagecredit: https://www.bbcgoodfood.com/recipes/1572643/sams-toad-in-the-hole
-tags: dinner, traditional
+tags:
+    - dinner
+    - traditional
+    - english
 
 ingredients:
     - 12 chipolatas

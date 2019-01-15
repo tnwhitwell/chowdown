@@ -3,7 +3,7 @@
 layout: recipe
 title:  "Paul Hollywood's ultimate carrot cake"
 image: ultimate-carrot-cake.jpg
-tags: baking
+tags: [baking]
 
 ingredients:
     - 155 ml sunflower oil plus extra for greasing

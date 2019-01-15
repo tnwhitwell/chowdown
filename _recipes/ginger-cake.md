@@ -3,7 +3,7 @@
 layout: recipe
 title:  "Ginger Cake"
 image: ginger-cake.jpg
-tags: baking
+tags: [baking]
 
 ingredients:
     - 225 g Flour Self Raising

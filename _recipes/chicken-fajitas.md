@@ -3,7 +3,9 @@
 layout: recipe
 title:  "Chicken Fajitas"
 image: chicken-fajitas.jpg
-tags: dinner, mexican
+tags:
+    - dinner
+    - mexican
 
 ingredients:
     - 1 tablespoon chili powder

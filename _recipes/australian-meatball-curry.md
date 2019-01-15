@@ -2,7 +2,9 @@
 
 layout: recipe
 title:  "Australian Meatball Curry"
-tags: dinner, curry
+tags:
+    - dinner
+    - curry
 
 ingredients:
     - Meatballs:

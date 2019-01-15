@@ -1,10 +1,10 @@
 # Site settings
-title: Chowdown
-email: your-email@domain.com
-description: The plain text recipe database for hackers
+title: Family Recipes
+email: tom@whitwell.family
+description: Our family's most used recipes
 baseurl: ""
-twitter_username: clarklab
-github_username:  clarklab
+twitter_username: tnwhitwell
+github_username:  tnwhitwell
 
 # Build settings
 markdown: kramdown

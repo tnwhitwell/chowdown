@@ -3,7 +3,9 @@
 layout: recipe
 title:  "Chilli con carne"
 image: chilli-con-carne.jpg
-tags: dinner, mexican
+tags:
+    - dinner
+    - mexican
 
 ingredients:
     - 1 tbsp oil
