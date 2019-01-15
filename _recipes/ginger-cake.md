@@ -26,5 +26,3 @@ directions:
     - Cook for 34 minutes @ 180 degrees until it starts to come away from the edges of the tin.
 
 ---
-
-From my mum's Aga book
