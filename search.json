@@ -1,0 +1,76 @@
+[
+  
+    {
+    
+	    "title"    : "Australian Meatball Curry",
+		"ingredients"    : "{"Meatballs"=>["600 g minced pork", "1 onion grated", "1 medium free-range eggs lightly beaten", "50 g fresh white breadcrumbs", "1 long red chilli deseeded and finely chopped", "2 tsp root ginger freshly grated", "1 tsp garam masala", "2 tbsp fresh coriander freshly chopped", "1 tbsp oil"]}, {"Curry Sauce"=>["3 tbsp massaman curry paste", "2 tsp root ginger freshly grated", "4 tomatoes roughly chopped", "200 ml coconut milk", "200 ml chicken stock", "1 tbsp lemon juice", "2 tsp brown sugar", "chopped cashew nuts to garnish", "fresh coriander to garnish"]}, ",
+		"image"	   : "",
+	    "url"      : "/recipes/australian-meatball-curry.html"
+      
+    } ,
+  
+    {
+    
+	    "title"    : "Chicken Fajitas",
+		"ingredients"    : "1 tablespoon chili powder, 1 teaspoon cumin, 1 teaspoon paprika, 1/4 teaspoon cayenne pepper, 1/4 teaspoon garlic powder, 1 teaspoon salt, 1 teaspoon ground black pepper, 3 tablespoons olive oil not all in one, 680 grams boneless skinless chicken breast sliced into strips, 2 bell peppers sliced, 1 onion thinly sliced, 8 small tortillas, ",
+		"image"	   : "chicken-fajitas.jpg",
+	    "url"      : "/recipes/chicken-fajitas.html"
+      
+    } ,
+  
+    {
+    
+	    "title"    : "Chilli con carne",
+		"ingredients"    : "1 tbsp oil, 1 large onion, 1 red pepper, 2 garlic cloves peeled, 1 tbsp heaped tsp hot chilli powder or 1 level if you only have mild, 1 tsp paprika, 1 tsp ground cumin, 500 g lean minced beef, 1 beef stock cube, 400 g can chopped tomatoes, tsp ½dried marjoram, 1 tsp sugar, 2 tbsp tomato purée, 410 g can red kidney beans, {"To Serve"=>["plain boiled long grain rice", "soured cream"]}, ",
+		"image"	   : "chilli-con-carne.jpg",
+	    "url"      : "/recipes/chilli-con-carne.html"
+      
+    } ,
+  
+    {
+    
+	    "title"    : "Creamed turket en Croûte",
+		"ingredients"    : "350g cooked turkey, chopped, 75g smoked bacon, finely chopped, 25g butter, 1 medium onion, chopped, 25g plain flour, 350 ml turkey stock, 2 tablespoons brandy, 75ml cream, 1 tablespoon chopped fresh parsley, Salt + ground black pepper, 350g puff pastry, Beaten egg to glaze, ",
+		"image"	   : "",
+	    "url"      : "/recipes/creamed-turkey-en-crout.html"
+      
+    } ,
+  
+    {
+    
+	    "title"    : "Ginger Cake",
+		"ingredients"    : "225 g Flour Self Raising, 1.5 tsp Ground Ginger, 0.5 tsp Mixed Spice, 100 g Soft Brown Sugar, 100 g Margarine, 100 g Golden Syrup, 100 g treacle, 1 egg, 150 ml milk, ",
+		"image"	   : "ginger-cake.jpg",
+	    "url"      : "/recipes/ginger-cake.html"
+      
+    } ,
+  
+    {
+    
+	    "title"    : "Mince Pies",
+		"ingredients"    : "{"For the pies"=>["350 g plain flour", "75 g lard", "75 g margarine or butter", "1 pinch salt", "cold water to mix", "560 g mincemeat"]}, {"For the top"=>["milk to brush on top", "icing sugar to dust with"]}, ",
+		"image"	   : "",
+	    "url"      : "/recipes/mince-pies.html"
+      
+    } ,
+  
+    {
+    
+	    "title"    : "Sam&#39;s toad-in-the-hole",
+		"ingredients"    : "12 chipolatas, 1 tbsp sunflower oil, 140 g plain flour, 0.5 tsp salt, 2 eggs, 175 ml semi-skimmed milk, ",
+		"image"	   : "sams-toad-in-the-hole.jpg",
+	    "url"      : "/recipes/sams-toad-in-the-hole.html"
+      
+    } ,
+  
+    {
+    
+	    "title"    : "Paul Hollywood&#39;s ultimate carrot cake",
+		"ingredients"    : "155 ml sunflower oil plus extra for greasing, 230 g self-raising flour, 1 tsp baking powder, 1.5 tsp ground cinnamon, 0.5 tsp Mixed Spice, 0.5 tsp Ground Ginger, 230 g light brown muscovado sugar, Finely grated zest of 1 satsuma or mandarin plus strips to decorate, 100 g pecans halved, 260 g carrots coarsely grated, 3 medium free-range eggs beaten, 50 g butter softened, 200 g full-fat cream cheese we recommend Philadelphia, 150 g icing sugar plus extra to dust, 2 tsp orange juice, ",
+		"image"	   : "ultimate-carrot-cake.jpg",
+	    "url"      : "/recipes/ultimate-carrot-cake.html"
+      
+    } 
+  
+]
+

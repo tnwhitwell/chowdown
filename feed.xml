@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Family Recipes</title>
+    <description>Our family's most used recipes</description>
+    <link>/</link>
+    <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Thu, 17 Jan 2019 21:24:53 +0000</pubDate>
+    <lastBuildDate>Thu, 17 Jan 2019 21:24:53 +0000</lastBuildDate>
+    <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>Australian Meatball Curry</title>
+        <description>&lt;p&gt;A good curry.&lt;/p&gt;
+</description>
+        <link>/recipes/australian-meatball-curry.html</link>
+        <guid isPermaLink="true">/recipes/australian-meatball-curry.html</guid>
+        
+        <category>dinner</category>
+        
+        <category>curry</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Chicken Fajitas</title>
+        <description>
+</description>
+        <link>/recipes/chicken-fajitas.html</link>
+        <guid isPermaLink="true">/recipes/chicken-fajitas.html</guid>
+        
+        <category>dinner</category>
+        
+        <category>mexican</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Chilli con carne</title>
+        <description>
+</description>
+        <link>/recipes/chilli-con-carne.html</link>
+        <guid isPermaLink="true">/recipes/chilli-con-carne.html</guid>
+        
+        <category>dinner</category>
+        
+        <category>mexican</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Creamed turket en Croûte</title>
+        <description>&lt;p&gt;This really is something of a moveable feast: if you have leftover ham, that can be used instead of bacon, leeks can replace the onion and so on.&lt;/p&gt;
+
+&lt;p&gt;Originally found in the Aga cookbook - Mum used to cook this a lot after Sunday lunch - it works well with chicken!&lt;/p&gt;
+</description>
+        <link>/recipes/creamed-turkey-en-crout.html</link>
+        <guid isPermaLink="true">/recipes/creamed-turkey-en-crout.html</guid>
+        
+        <category>dinner</category>
+        
+        <category>leftovers</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Ginger Cake</title>
+        <description>
+</description>
+        <link>/recipes/ginger-cake.html</link>
+        <guid isPermaLink="true">/recipes/ginger-cake.html</guid>
+        
+        <category>baking</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Mince Pies</title>
+        <description>&lt;p&gt;This is the recipe I remember making with mum at Christmas while growing up. Originally found in Delia Smith’s Christmas, now available on her website.&lt;/p&gt;
+</description>
+        <link>/recipes/mince-pies.html</link>
+        <guid isPermaLink="true">/recipes/mince-pies.html</guid>
+        
+        <category>baking</category>
+        
+        <category>christmas</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Sam's toad-in-the-hole</title>
+        <description>&lt;p&gt;Original recipe said pre-cook sausages for 15 minutes but this would nuke the chipolatas!&lt;/p&gt;
+</description>
+        <link>/recipes/sams-toad-in-the-hole.html</link>
+        <guid isPermaLink="true">/recipes/sams-toad-in-the-hole.html</guid>
+        
+        <category>dinner</category>
+        
+        <category>traditional</category>
+        
+        <category>english</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Paul Hollywood's ultimate carrot cake</title>
+        <description>&lt;p&gt;From my mum’s Aga book&lt;/p&gt;
+</description>
+        <link>/recipes/ultimate-carrot-cake.html</link>
+        <guid isPermaLink="true">/recipes/ultimate-carrot-cake.html</guid>
+        
+        <category>baking</category>
+        
+        
+      </item>
+    
+  </channel>
+</rss>
